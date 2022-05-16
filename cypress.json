@@ -1,0 +1,6 @@
+{
+
+    "baseUrl" : "https://staging.engineer.ai/home",
+    "chromeWebSecurity": false
+
+}
